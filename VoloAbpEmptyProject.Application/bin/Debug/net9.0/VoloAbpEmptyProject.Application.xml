@@ -1,0 +1,161 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>VoloAbpEmptyProject.Application</name>
+    </assembly>
+    <members>
+        <member name="T:VoloAbpEmptyProject.Application.Common.Services.BaseAppService">
+            <summary>
+            基础应用服务类
+            </summary>
+        </member>
+        <member name="M:VoloAbpEmptyProject.Application.Common.Services.BaseAppService.Success``1(``0,System.String)">
+            <summary>
+            返回成功响应
+            </summary>
+            <typeparam name="T">数据类型</typeparam>
+            <param name="data">数据</param>
+            <param name="message">消息</param>
+            <returns>API响应</returns>
+        </member>
+        <member name="M:VoloAbpEmptyProject.Application.Common.Services.BaseAppService.Fail``1(System.String,System.Int32)">
+            <summary>
+            返回失败响应
+            </summary>
+            <typeparam name="T">数据类型</typeparam>
+            <param name="message">消息</param>
+            <param name="code">状态码</param>
+            <returns>API响应</returns>
+        </member>
+        <member name="M:VoloAbpEmptyProject.Application.Common.Services.BaseAppService.Map``2(``0,System.String)">
+            <summary>
+            映射实体到DTO并返回成功响应
+            </summary>
+            <typeparam name="TSource">源类型</typeparam>
+            <typeparam name="TDestination">目标类型</typeparam>
+            <param name="source">源对象</param>
+            <param name="message">消息</param>
+            <returns>API响应</returns>
+        </member>
+        <member name="P:VoloAbpEmptyProject.Application.Users.UserDto.Id">
+            <summary>
+            用户ID
+            </summary>
+        </member>
+        <member name="P:VoloAbpEmptyProject.Application.Users.UserDto.UserName">
+            <summary>
+            用户名
+            </summary>
+        </member>
+        <member name="P:VoloAbpEmptyProject.Application.Users.UserDto.Email">
+            <summary>
+            邮箱
+            </summary>
+        </member>
+        <member name="P:VoloAbpEmptyProject.Application.Users.UserDto.PhoneNumber">
+            <summary>
+            手机号
+            </summary>
+        </member>
+        <member name="P:VoloAbpEmptyProject.Application.Users.UserDto.IsActive">
+            <summary>
+            是否启用
+            </summary>
+        </member>
+        <member name="P:VoloAbpEmptyProject.Application.Users.UserDto.CreationTime">
+            <summary>
+            创建时间
+            </summary>
+        </member>
+        <member name="P:VoloAbpEmptyProject.Application.Users.UserDto.LastLoginTime">
+            <summary>
+            最后登录时间
+            </summary>
+        </member>
+        <member name="P:VoloAbpEmptyProject.Application.Users.UserDto.Name">
+            <summary>
+            姓名
+            </summary>
+        </member>
+        <member name="P:VoloAbpEmptyProject.Application.Users.UserDto.Avatar">
+            <summary>
+            头像
+            </summary>
+        </member>
+        <member name="T:VoloAbpEmptyProject.Application.Users.CreateUserDto">
+            <summary>
+            创建用户请求
+            </summary>
+        </member>
+        <member name="P:VoloAbpEmptyProject.Application.Users.CreateUserDto.UserName">
+            <summary>
+            用户名
+            </summary>
+        </member>
+        <member name="P:VoloAbpEmptyProject.Application.Users.CreateUserDto.Email">
+            <summary>
+            邮箱
+            </summary>
+        </member>
+        <member name="P:VoloAbpEmptyProject.Application.Users.CreateUserDto.Password">
+            <summary>
+            密码
+            </summary>
+        </member>
+        <member name="P:VoloAbpEmptyProject.Application.Users.CreateUserDto.PhoneNumber">
+            <summary>
+            手机号
+            </summary>
+        </member>
+        <member name="P:VoloAbpEmptyProject.Application.Users.CreateUserDto.IsActive">
+            <summary>
+            是否启用
+            </summary>
+        </member>
+        <member name="P:VoloAbpEmptyProject.Application.Users.CreateUserDto.Name">
+            <summary>
+            姓名
+            </summary>
+        </member>
+        <member name="P:VoloAbpEmptyProject.Application.Users.CreateUserDto.Avatar">
+            <summary>
+            头像
+            </summary>
+        </member>
+        <member name="P:VoloAbpEmptyProject.Application.Users.UpdateUserDto.UserName">
+            <summary>
+            用户名
+            </summary>
+        </member>
+        <member name="P:VoloAbpEmptyProject.Application.Users.UpdateUserDto.Email">
+            <summary>
+            邮箱
+            </summary>
+        </member>
+        <member name="P:VoloAbpEmptyProject.Application.Users.UpdateUserDto.Password">
+            <summary>
+            密码
+            </summary>
+        </member>
+        <member name="P:VoloAbpEmptyProject.Application.Users.UpdateUserDto.PhoneNumber">
+            <summary>
+            手机号
+            </summary>
+        </member>
+        <member name="P:VoloAbpEmptyProject.Application.Users.UpdateUserDto.IsActive">
+            <summary>
+            是否启用
+            </summary>
+        </member>
+        <member name="P:VoloAbpEmptyProject.Application.Users.UpdateUserDto.Name">
+            <summary>
+            姓名
+            </summary>
+        </member>
+        <member name="P:VoloAbpEmptyProject.Application.Users.UpdateUserDto.Avatar">
+            <summary>
+            头像
+            </summary>
+        </member>
+    </members>
+</doc>

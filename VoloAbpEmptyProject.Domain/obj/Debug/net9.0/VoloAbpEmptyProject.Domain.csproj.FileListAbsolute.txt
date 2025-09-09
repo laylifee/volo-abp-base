@@ -1,0 +1,12 @@
+D:\Code\web\VoloAbpEmptyProject\VoloAbpEmptyProject.Domain\bin\Debug\net9.0\VoloAbpEmptyProject.Domain.deps.json
+D:\Code\web\VoloAbpEmptyProject\VoloAbpEmptyProject.Domain\bin\Debug\net9.0\VoloAbpEmptyProject.Domain.dll
+D:\Code\web\VoloAbpEmptyProject\VoloAbpEmptyProject.Domain\bin\Debug\net9.0\VoloAbpEmptyProject.Domain.pdb
+D:\Code\web\VoloAbpEmptyProject\VoloAbpEmptyProject.Domain\obj\Debug\net9.0\VoloAbpEmptyProject.Domain.csproj.AssemblyReference.cache
+D:\Code\web\VoloAbpEmptyProject\VoloAbpEmptyProject.Domain\obj\Debug\net9.0\VoloAbpEmptyProject.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\web\VoloAbpEmptyProject\VoloAbpEmptyProject.Domain\obj\Debug\net9.0\VoloAbpEmptyProject.Domain.AssemblyInfoInputs.cache
+D:\Code\web\VoloAbpEmptyProject\VoloAbpEmptyProject.Domain\obj\Debug\net9.0\VoloAbpEmptyProject.Domain.AssemblyInfo.cs
+D:\Code\web\VoloAbpEmptyProject\VoloAbpEmptyProject.Domain\obj\Debug\net9.0\VoloAbpEmptyProject.Domain.csproj.CoreCompileInputs.cache
+D:\Code\web\VoloAbpEmptyProject\VoloAbpEmptyProject.Domain\obj\Debug\net9.0\VoloAbpEmptyProject.Domain.dll
+D:\Code\web\VoloAbpEmptyProject\VoloAbpEmptyProject.Domain\obj\Debug\net9.0\refint\VoloAbpEmptyProject.Domain.dll
+D:\Code\web\VoloAbpEmptyProject\VoloAbpEmptyProject.Domain\obj\Debug\net9.0\VoloAbpEmptyProject.Domain.pdb
+D:\Code\web\VoloAbpEmptyProject\VoloAbpEmptyProject.Domain\obj\Debug\net9.0\ref\VoloAbpEmptyProject.Domain.dll

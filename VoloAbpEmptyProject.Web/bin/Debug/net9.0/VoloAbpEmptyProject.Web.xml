@@ -1,0 +1,59 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>VoloAbpEmptyProject.Web</name>
+    </assembly>
+    <members>
+        <member name="M:VoloAbpEmptyProject.Web.Controllers.UserController.CreateAsync(VoloAbpEmptyProject.Application.Users.CreateUserDto)">
+            <summary>
+            创建新用户
+            </summary>
+            <param name="input"></param>
+            <returns></returns>
+        </member>
+        <member name="M:VoloAbpEmptyProject.Web.Controllers.UserController.GetAsync(System.Guid)">
+            <summary>
+            获取用户信息
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+            
+        </member>
+        <member name="M:VoloAbpEmptyProject.Web.Controllers.UserController.GetListAsync(System.Boolean)">
+            <summary>
+            获取用户列表
+            </summary>
+            <param name="includeInactive"></param>
+            <returns></returns>
+            
+        </member>
+        <member name="M:VoloAbpEmptyProject.Web.Controllers.UserController.UpdateAsync(System.Guid,VoloAbpEmptyProject.Application.Users.UpdateUserDto)">
+            <summary>
+            更新用户信息
+            </summary>
+            <param name="id"></param>
+            <param name="input"></param>
+            <returns></returns>
+        </member>
+        <member name="M:VoloAbpEmptyProject.Web.Controllers.UserController.DeleteAsync(System.Guid)">
+            <summary>
+            删除用户
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:VoloAbpEmptyProject.Web.Controllers.UserController.LoginAsync(VoloAbpEmptyProject.Application.Users.LoginInputDto)">
+            <summary>
+            用户登录
+            </summary>
+            <param name="input"></param>
+            <returns></returns>
+            
+        </member>
+        <member name="T:VoloAbpEmptyProject.Web.WebModule.SwaggerDocumentFilter">
+            <summary>
+            Swagger文档过滤器，用于支持中文注释
+            </summary>
+        </member>
+    </members>
+</doc>

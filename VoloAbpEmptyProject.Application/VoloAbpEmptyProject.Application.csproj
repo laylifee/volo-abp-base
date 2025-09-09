@@ -1,0 +1,24 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net9.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <GenerateDocumentationFile>True</GenerateDocumentationFile>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="13.0.1" />
+    <PackageReference Include="BCrypt.Net-Next" Version="4.0.3" />
+    <PackageReference Include="Portable.BouncyCastle" Version="1.9.0" />
+    <PackageReference Include="Volo.Abp.AspNetCore.Mvc" Version="8.2.1" />
+    <PackageReference Include="Volo.Abp.AutoMapper" Version="8.2.1" />
+    <PackageReference Include="Volo.Abp.Ddd.Application" Version="8.2.1" />
+    <PackageReference Include="Volo.Abp.ObjectMapping" Version="8.2.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\VoloAbpEmptyProject.Domain\VoloAbpEmptyProject.Domain.csproj" />
+  </ItemGroup>
+
+</Project>
